@@ -11,6 +11,4 @@ Skills: PHP / HTML / CSS / JS / JQUERY / SQL / BASH / Node.js
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doraketa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_mpleasure/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15636400)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doraketa)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/doraketa)  
