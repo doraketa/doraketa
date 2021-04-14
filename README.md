@@ -13,6 +13,4 @@ Skills: PHP / HTML / CSS / JS / JQUERY / SQL / BASH / Node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doraketa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=doraketa)  
-
 ![Profile views](https://gpvc.arturio.dev/doraketa)  
