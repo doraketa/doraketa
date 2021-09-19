@@ -1,11 +1,2 @@
 ### Hi there 👋, my name is Vadim Polyakov
-#### I am a backend developer from Moscow, Russia
-I'm developing a Backend, learning new technologies, and just practicing. This account is a kind of collection of my work.
-
-Skills: PHP / HTML / CSS / JS / JQUERY / SQL / BASH / Node.js
-
-- 🌱 I’m currently learning Python / PLSQL 
-- 💬 Ask me about something, if you interesting it :) 
-- 📫 How to reach me: TG: @ALTER_TABLE 
-
-![Profile views](https://gpvc.arturio.dev/doraketa)  
+I am a Backend developer from Moscow. I am fond of developing server solutions, designing databases and automation systems for business solutions. My main languages are [PHP](https://www.php.net/) and [BASH](http://www.gnu.org/software/bash/). At the moment I am studying C# (.NET + TCP/IP Stack), PostgreSQL, C++.
